@@ -46,8 +46,8 @@ Target:
 ## Struktur Project
 katonice-ai/
 ├── data/
-│  └── katonice_dataset_realistic_raw.csv
-│   └── katonice_dataset_clean.csv
+    └── katonice_dataset_clean.csv
+    └── katonice_dataset_realistic_raw.csv
 ├── notebooks/
 ├── models/
 ├── src/
